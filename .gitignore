@@ -1,0 +1,10 @@
+*.d
+*.o
+*.a
+*.so
+*.gcda
+*.gcno
+*~
+~*.~*
+/.*project
+.settings/*
